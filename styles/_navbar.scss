@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+  padding: 1rem 3rem;
+  align-items: center;
+  a {
+    color: black;
+    background-color: white;
+    padding: 0.8rem 2rem;
+  }
+  .logo{
+    color: white;
+    background-color: black;
+  }
+}
